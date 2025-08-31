@@ -1,0 +1,88 @@
+{
+  "personal": {
+    "name": "Developer Name",
+    "title": "Frontend Engineer & AI-Native Developer",
+    "location": "Location, Country",
+    "email": "contact@example.com",
+    "website": "https://portfolio-website.com",
+    "bio": "Passionate frontend engineer transitioning to AI-native development, combining traditional software engineering excellence with modern AI-assisted workflows.",
+    "interests": ["3D Graphics", "Mathematical Rendering", "AI-Native Development", "Clean Architecture", "Performance Optimization"]
+  },
+  "professional": {
+    "summary": "Experienced frontend engineer with expertise in React, TypeScript, and modern web technologies. Currently exploring AI-native development practices while maintaining focus on clean code and excellent user experiences.",
+    "yearsExperience": 5,
+    "currentRole": "Frontend Engineer",
+    "currentCompany": "Tech Company"
+  },
+  "skills": [
+    {
+      "category": "Frontend",
+      "skills": [
+        { "name": "React", "level": 5, "category": "frontend" },
+        { "name": "TypeScript", "level": 5, "category": "frontend" },
+        { "name": "Next.js", "level": 4, "category": "frontend" },
+        { "name": "Tailwind CSS", "level": 4, "category": "frontend" }
+      ]
+    },
+    {
+      "category": "3D & Graphics",
+      "skills": [
+        { "name": "Three.js", "level": 3, "category": "frontend" },
+        { "name": "WebGL", "level": 3, "category": "frontend" },
+        { "name": "Mathematical Rendering", "level": 4, "category": "other" }
+      ]
+    },
+    {
+      "category": "Development Tools",
+      "skills": [
+        { "name": "Git", "level": 5, "category": "devtools" },
+        { "name": "VS Code", "level": 5, "category": "devtools" },
+        { "name": "AI-Assisted Development", "level": 4, "category": "devtools" }
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": "portfolio-website",
+      "title": "Dual Experience Portfolio",
+      "description": "Innovative portfolio featuring both traditional resume and 3-stage interactive experience with mathematical ASCII 3D rendering.",
+      "technologies": ["Next.js", "TypeScript", "Tailwind CSS", "Three.js", "Mathematical Rendering"],
+      "githubUrl": "https://github.com/dev-song/home",
+      "liveUrl": "https://portfolio-website.com",
+      "featured": true,
+      "completedDate": "2025-08-31"
+    }
+  ],
+  "experience": [
+    {
+      "id": "current-role",
+      "company": "Tech Company",
+      "position": "Frontend Engineer",
+      "startDate": "2022-01-01",
+      "description": "Developing modern web applications with focus on performance and user experience.",
+      "achievements": [
+        "Built responsive web applications serving thousands of users",
+        "Improved application performance by 40% through optimization",
+        "Mentored junior developers in React and TypeScript best practices"
+      ],
+      "technologies": ["React", "TypeScript", "Next.js", "Tailwind CSS"]
+    }
+  ],
+  "education": [
+    {
+      "id": "university-degree",
+      "institution": "University Name",
+      "degree": "Bachelor of Science",
+      "field": "Computer Science",
+      "startDate": "2018-09-01",
+      "endDate": "2022-06-30",
+      "achievements": ["Dean's List", "Computer Graphics Specialization"]
+    }
+  ],
+  "contact": {
+    "email": "contact@example.com",
+    "github": "https://github.com/dev-song",
+    "linkedin": "https://linkedin.com/in/developer",
+    "website": "https://portfolio-website.com"
+  }
+}
